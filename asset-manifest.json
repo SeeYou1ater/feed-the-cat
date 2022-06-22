@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/feed-the-cat/static/css/main.7728795a.css",
+    "main.js": "/feed-the-cat/static/js/main.874be65c.js",
+    "static/media/cat.png": "/feed-the-cat/static/media/cat.ab9c98c45611673f0cfe.png",
+    "static/media/Pattern.png": "/feed-the-cat/static/media/Pattern.5658eae679f74a1ba743.png",
+    "static/media/Exo2.0-Thin.otf": "/feed-the-cat/static/media/Exo2.0-Thin.51c257bfa8ec3e0cfb4b.otf",
+    "index.html": "/feed-the-cat/index.html",
+    "main.7728795a.css.map": "/feed-the-cat/static/css/main.7728795a.css.map",
+    "main.874be65c.js.map": "/feed-the-cat/static/js/main.874be65c.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.7728795a.css",
+    "static/js/main.874be65c.js"
+  ]
+}
